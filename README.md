@@ -8,7 +8,7 @@ Uses raw SQL prepared statements with `mysql2/promise`.
 ## Setup (local)
 
 1. Copy `.env.example` to `.env` and fill values.
-2. Create database and run `sql/ddl.sql`.
+2. Create database and run `sql/db_nutech.sql`.
 3. Install dependencies:
    ```bash
    npm install
